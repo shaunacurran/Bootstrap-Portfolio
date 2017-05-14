@@ -43,6 +43,11 @@ nav a {
   
 }
 
+
+.social{
+  clear: both;
+}
+
 section.img{
 	float: left;
 	width: 450px;
